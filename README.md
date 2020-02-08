@@ -1,6 +1,6 @@
 # Zwei^2 Breadboardable PIC32MZ Board with USB
 =================
-/* 
+
  * Files: Zwei^2 Breadboardable PIC32MZ Board with USB published on www.circuitvalley.com
  * Author: Gaurav singh
  * email : gauravsingh@circuitvalley.com
